@@ -1,6 +1,6 @@
 #coding=utf-8
 #Initialized by Levi Li
-#Date: 19-Apr-2017
+#Date: 16-Apr-2017
 #Discription: multiple thread study
 #History
 #--------------------------------------------------------
@@ -11,13 +11,13 @@ from time import ctime , sleep
 import threading
 
 def Process1():
-    for i in range(100):
+    for i in range(5):
         print("c1 %s"%(ctime()))
         print(threading.current_thread())
         sleep(0.3)
 
 def Process2():
-    for i in range(100):
+    for i in range(5):
         print("c2 %s"%(ctime()))
         sleep(0.5)
 

@@ -4,8 +4,9 @@
 #History
 #--------------------------------------------------------
 #Date               Useer                   Discription
-#16-Apr-2017        Levi Li                 Initial
-#16-Apr-2017        Levi Li                 Submit into git hub
+#19-Apr-
+#19-Apr-2017        Levi Li                 Create
+#19-Apr-2017        Levi Li                 Create
 #--------------------------------------------------------
 '''
 <img class="main_img img-hover" data-imgurl="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=4225527214,2698476519&amp;fm=23&amp;gp=0.jpg" src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=4225527214,2698476519&amp;fm=23&amp;gp=0.jpg" style="background-color: rgb(182, 173, 173); width: 295px; height: 197px;">
