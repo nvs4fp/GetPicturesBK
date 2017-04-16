@@ -1,4 +1,12 @@
 #coding=utf-8
+#Initialized by Levi Li
+#Date: 19-Apr-2017
+#Discription: multiple thread study
+#History
+#--------------------------------------------------------
+#Date               Useer                   Discription
+#16-Apr-2017        Levi Li                 Initial
+#--------------------------------------------------------
 from time import ctime , sleep
 import threading
 

@@ -1,8 +1,9 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
+#Description:Study multiple thread
 #History
 #Date           User                History
-#16-Apr-2017    Levi Li             Create
+#16-Apr-2017    Levi Li             Initial
 #-----------------------------------------------------------------------------------------------------
 import threading
 import time
