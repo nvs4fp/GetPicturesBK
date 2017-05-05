@@ -4,6 +4,7 @@
 #History
 #Date           User                History
 #04-May-2017    Levi Li             Initial
+#05-May-2017    Levi Li             Use git gui
 #-----------------------------------------------------------------------------------------------------
 class Person(object):
     def __init__(self,name,age):
