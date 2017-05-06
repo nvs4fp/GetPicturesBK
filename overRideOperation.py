@@ -117,6 +117,7 @@ class Fib(object):
             a,b=b,a+b
         return L
 
+
 def fib_class():
     f = Fib()
     print(f(10))
