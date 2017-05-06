@@ -1,3 +1,9 @@
+# File name: overRideOperation.py
+# Create Date: 06-May-2017
+# Author:  Liyan
+# Function: Mainly to study object oriented programming
+
+
 import math
 
 
