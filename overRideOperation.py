@@ -1,6 +1,6 @@
 # File name: overRideOperation.py
 # Create Date: 06-May-2017
-# Author:  Liyan
+# Author:  LiYan
 # Function: Mainly to study object oriented programming
 
 
