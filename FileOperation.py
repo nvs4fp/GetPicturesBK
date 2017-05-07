@@ -1,10 +1,10 @@
 # To study how to operate file
 import re
 
-class fileOperation(object):
 
+class FileOperation(object):
     def __init__(self, fileName):
-        self.fileName=fileName
+        self.fileName = fileName
 
     def add_line_index(self):
         f = open(self.fileName, 'r')
@@ -29,16 +29,16 @@ class fileOperation(object):
         f.close()
 
     def __check_index_existing(self, lines):
-        if len(lines)<1:
+        if len(lines) < 1:
             return False
         if re.findall('\d+\.', lines):
             return True
 
 
 def file_read_write():
-    file_op=fileOperation("finput.txt")
+    file_op = FileOperation("finput.txt")
     file_op.add_line_index()
 
-if __name__=="__main__":
-    file_read_write()
 
+if __name__ == "__main__":
+    file_read_write()
